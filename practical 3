@@ -1,0 +1,29 @@
+<html>
+<title>Practical 3</title>
+<body bgcolor ="lightgreen">
+    <h1>Aditi Yeole</h1>
+    <h3>CS25007</h3>
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Introduction</li>
+        <li>Content Structure</li>
+    </ol>
+    <h2>Unordered List</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
+
+    <h2>Description List</h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Markup language for web pages</dd>
+        <dt>CSS</dt>
+        <dd>Styles the presentation of web pages</dd>
+    </dl>
+    <h2>Learn More</h2>
+    <p> <a href="https://google.com/search?q=html+css&sca_esv=1d854c094db8cae8&udm=2&sxsrf=ANbL-n7uwkNTpRmuI_duADuTHJd-tvmcZg%3A1771174652706&ei=_PqRac3nKoPM1e8PlI6uoAM&biw=1229&bih=590&
+ved=0ahUKEwjN1Yng-9uSAxUDZvUHHRSHCzQQ4dUDCBQ&uact=5&oq=html+css&gs_lp=Egtnd3Mtd2l6LWltZyIIaHRtbCBjc3MyBxAjGCcYyQIyBRAAGIAEMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBRAA
+GIAEMgUQABiABDIFEAAYgARI3xJQ6QNYwQtwAXgAkAEAmAG7AaABowiqAQMwLja4AQPIAQD4AQGYAgagAuQHwgIGEAAYBxgewgIEEAAYHpgDAIgGAZIHBTEuNC4xoAezJrIHBTAuNC4xuAfCB8IHBTMtNS4xyAdlgAgA&sclient=gws-wiz-img"> visit </a>
+</body>
+</html>
